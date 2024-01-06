@@ -11,7 +11,7 @@
 
    ## ⭐Instalace
    
-   - Vyberte si jednu z instalací [TFC.rar]() nebo [Modpack.rar]()
+   - Vyberte si jednu z instalací [TFC.rar](https://github.com/patekcz/TFCmodpack/releases) nebo [Modpack.rar](https://github.com/patekcz/TFCmodpack/releases)
    - Balíček `TFC.rar` obsahuje pouze mody a instalační verzi forge.
      - `TFC.rar` je vhodný pro aktualizaci modů a nebo při použití cuseforge.
    - Balíček `Modpack.rar` obsahuje celou složku `.minecraft` s nastavením.
