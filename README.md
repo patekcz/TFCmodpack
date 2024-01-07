@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/patekcz"><img src="https://github.com/patekcz/TFCmodpack/assets/52839023/a09c7f73-f40a-4d55-8d00-1fe8399fc13c" height="100" alt="TFCraft"></a>
   
-  <a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2EF7CD&random=false&width=200&lines=TFC+modpack" alt="Typing SVG" /></a>" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=3000&color=2EF7CD&random=false&width=200&lines=TFC+modpack" alt="Typing SVG" /></a>
 </h1>
 
 
