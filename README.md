@@ -18,6 +18,7 @@
      - `Modpack.rar` je vhodný pro ryhlou instalaci a okamžité spuštění modpacku.
    - Pro aktualizaci modpacku si stáhněte soubor [TFC.rar]() a
     z aktuálního modpacku smažte mody a nahraďte je novými z daného souboru.
+   - Textury pro AntiqueAtlas si můžete stáhnout [zde](https://www.curseforge.com/minecraft/texture-packs/antiqueatlasems/screenshots)
 <br>
 
 
