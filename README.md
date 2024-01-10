@@ -22,6 +22,20 @@
 <br>
 
 
+## 🌺 Preview mods
+<details>
+  <summary>mods images</summary>
+  <ol>
+    
+![instagram3](https://github.com/patekcz/TFCmodpack/assets/52839023/cd7a1713-8ee7-4b5c-8515-8b076f9a1d38)
+![tDSBihU](https://github.com/patekcz/TFCmodpack/assets/52839023/071aeed9-2e41-43c7-8279-eeb27b7e2983)
+![screen1](https://github.com/patekcz/TFCmodpack/assets/52839023/3cc7cf90-dc92-4d42-9214-5794e6369ab5)
+![newscreenshot2](https://github.com/patekcz/TFCmodpack/assets/52839023/8281ad0e-f9d3-4ff1-a491-ae10fa9abd0b)
+![boat](https://github.com/patekcz/TFCmodpack/assets/52839023/943b39cd-c416-45bd-9cf6-874a2ebda927)
+![biplane](https://github.com/patekcz/TFCmodpack/assets/52839023/6cef1e8d-891a-4331-a355-5e7e5aa43de5)
+
+  </ol>
+</details>
 
    ## 🌱 Modpack list v0.7
    ```sh
