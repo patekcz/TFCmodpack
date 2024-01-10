@@ -23,20 +23,24 @@
 
 
 
-   ## 🌱 Modpack list v0.6
+   ## 🌱 Modpack list v0.7
    ```sh
 another_furniture-forge-1.2.2-1.18.2.jar
 antiqueatlas-7.1.1-forge-mc1.18.2.jar
-appleskin-forge-mc1.18.2-2.5.1.jar
 architectury-4.11.93-forge.jar
+backpacked-forge-1.18.2-2.1.13.jar
 badpackets-forge-0.1.3.jar
+beautify-1.18.2-1.4.1.jar
 betterstats-2.2.2+1.18.2.jar
+Boat-Item-View-Forge-1.18-0.0.3.jar
 bricklayer-1.0.3-1.18.2-FORGE.jar
 chat_heads-0.6.1-forge-1.18.2.jar
 cloth-config-6.5.116-forge.jar
 Clumps-forge-1.18.2-8.0.0+17.jar
 collective-1.18.2-7.7.jar
+configured-2.0.1-1.18.2.jar
 doubledoors-1.18.2-5.0.jar
+effective_fg-1.2.4.jar
 fantasyfurniture-1.18.2-3.14.0.jar
 FarmersDelight-1.18.2-1.2.3.jar
 FarmersDelightTFC-1.0.3-forge-1.18.2.jar
@@ -45,10 +49,12 @@ gravestone-1.18.2-1.0.2.jar
 immersive_aircraft-0.5.2+1.18.2-forge.jar
 immersive_melodies-0.1.0+1.18.2-forge.jar
 jei-1.18.2-forge-10.2.1.1005.jar
+mcw-windows-2.2.1-mc1.18.2forge.jar
 morediscs-1.18.2-31-forge.jar
 OptiFine_1.18.2_HD_U_H6.jar
 Patchouli-1.18.2-71.1.jar
 smallships-forge-1.18.2-2.0.0-a2.3.1.jar
+spawnanimations-v1.9.4-mc1.17x-1.20x-mod.jar
 TerraFirmaCraft-Forge-1.18.2-2.2.32.jar
 tfc-astikorcarts-1.18.2-1.1.6.jar
 tfships-1.0.jar
@@ -89,16 +95,20 @@ wthit-forge-4.13.6.jar
     ├───mods
     │       another_furniture-forge-1.2.2-1.18.2.jar
     │       antiqueatlas-7.1.1-forge-mc1.18.2.jar
-    │       appleskin-forge-mc1.18.2-2.5.1.jar
     │       architectury-4.11.93-forge.jar
+    │       backpacked-forge-1.18.2-2.1.13.jar
     │       badpackets-forge-0.1.3.jar
+    │       beautify-1.18.2-1.4.1.jar
     │       betterstats-2.2.2+1.18.2.jar
+    │       Boat-Item-View-Forge-1.18-0.0.3.jar
     │       bricklayer-1.0.3-1.18.2-FORGE.jar
     │       chat_heads-0.6.1-forge-1.18.2.jar
     │       cloth-config-6.5.116-forge.jar
     │       Clumps-forge-1.18.2-8.0.0+17.jar
     │       collective-1.18.2-7.7.jar
+    │       configured-2.0.1-1.18.2.jar
     │       doubledoors-1.18.2-5.0.jar
+    │       effective_fg-1.2.4.jar
     │       fantasyfurniture-1.18.2-3.14.0.jar
     │       FarmersDelight-1.18.2-1.2.3.jar
     │       FarmersDelightTFC-1.0.3-forge-1.18.2.jar
@@ -107,10 +117,12 @@ wthit-forge-4.13.6.jar
     │       immersive_aircraft-0.5.2+1.18.2-forge.jar
     │       immersive_melodies-0.1.0+1.18.2-forge.jar
     │       jei-1.18.2-forge-10.2.1.1005.jar
+    │       mcw-windows-2.2.1-mc1.18.2forge.jar
     │       morediscs-1.18.2-31-forge.jar
     │       OptiFine_1.18.2_HD_U_H6.jar
     │       Patchouli-1.18.2-71.1.jar
     │       smallships-forge-1.18.2-2.0.0-a2.3.1.jar
+    │       spawnanimations-v1.9.4-mc1.17x-1.20x-mod.jar
     │       TerraFirmaCraft-Forge-1.18.2-2.2.32.jar
     │       tfc-astikorcarts-1.18.2-1.1.6.jar
     │       tfships-1.0.jar
@@ -119,6 +131,8 @@ wthit-forge-4.13.6.jar
     │       wthit-forge-4.13.6.jar
     │
     ├───resourcepacks
+    │       AntiqueAtlasEMS_1.16.5_1.3.1.zip
+    │
     └───versions
         │   version_manifest_v2.json
         │
